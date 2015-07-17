@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyBIM</string>
+    <string name="action_settings">Settings</string>
+    <string name="height">身高</string>
+    <string name="weight">体重</string>
+    <string name="bmi_btn">计算BMI值</string>
+    <string name="bmi_result">你的BMI值是</string>
+
+    <string name="bmi_height_tip">请输入数字(cm)！</string>
+    <string name="bmi_weight_tip">请输入数字(kg)！</string>
+    <string name="input_tip">亲，请输入哈！</string>
+
+    <string name="ok_label">确认</string>
+    <string name="home_page">首页</string>
+    <string name="home_page_url">http://www.androidbmi.googlecode.com</string>
+    <string name="about_title">关于 Android BMI</string>
+    <string name="about_msg">感谢支持n感谢作者n感谢所有关心和帮助过我的人</string>
+    <string name="thanks">感谢使用</string>
+
+</resources>
